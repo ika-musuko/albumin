@@ -1,6 +1,6 @@
 # albumin
 
-automatically generate a video with cover art of a bunch of audio files
+automatically generate a video with cover art of a bunch of audio files and print out the timestamps
 
 ## usage
 cd to a directory with the audio files
